@@ -1,0 +1,5 @@
+[cn]
+  title = "ZDoc"
+  languageName = "简体中文"
+  weight = 2
+  contentdir = "content/cn"
